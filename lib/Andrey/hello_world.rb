@@ -10,7 +10,7 @@ module Andrey
       end
 
       def str_hello
-        "Hello World, by Andrey"
+        "Hello World, by Andrey new version "
       end
     end
     # Your code goes here...
